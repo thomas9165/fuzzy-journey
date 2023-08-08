@@ -1,3 +1,3 @@
 # fuzzy-journey
 
-Some one please fork me 
+Someone please fork me 
